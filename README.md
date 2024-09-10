@@ -6,7 +6,9 @@ A **database **is a collection of interrelated data that helps in the efficient 
 ## What is DBMS?
 A Database Management System (DBMS) is a software system that is designed to manage and organize data in a structured manner. It allows users to create, modify, and query a database, as well as manage the security and access controls for that database. DBMS provides an environment to store and retrieve data in convenient and efficient manner
 
-`<a href="https://app.eraser.io/workspace/SoAZWqIyNfuLnfJG69BC">View on Eraser<br /><img src="https://app.eraser.io/workspace/SoAZWqIyNfuLnfJG69BC/preview" /></a>`/></a>
+![image.png](/.eraser/SoAZWqIyNfuLnfJG69BC___v9mbn5vT6UcEXRnIU8fiBfvMxrF3___lEqSwepiB9-sSj9BKCYhs.png "image.png")
+
+
 
 
 
