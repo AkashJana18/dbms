@@ -8,16 +8,16 @@ A Database Management System (DBMS) is a software system that is designed to man
 
 **DBMS can be classified into two types:**
 
-![Figure 1](/.eraser/SoAZWqIyNfuLnfJG69BC___v9mbn5vT6UcEXRnIU8fiBfvMxrF3___---figure---kqX83_5oBpmvISeWEp9cy---figure---ta711QFKI1XLSLh4ZMH9fg.png "Figure 1")
+![Figure 1](/.eraser/SoAZWqIyNfuLnfJG69BC___v9mbn5vT6UcEXRnIU8fiBfvMxrF3___---figure---IWOnrc8jwRmfeWdh59RHN---figure---ta711QFKI1XLSLh4ZMH9fg.png "Figure 1")
 
 - **RDBMS: **Data is organized in the form of tables and each table has a set of rows and columns. The data are related to each other through primary and foreign keys.
 - **NoSQL: **Data is organized in the form of key-value pairs, documents, graphs, or column-based. These are designed to handle large-scale, high-performance scenarios.
 - **Object-Oriented DBMS (OODBMS):** Stores data as objects, similar to those used in object-oriented programming, allowing for complex data representations and relationships
 ### Key Features of DBMS:
-![Figure 3](/.eraser/SoAZWqIyNfuLnfJG69BC___v9mbn5vT6UcEXRnIU8fiBfvMxrF3___---figure---E5M4vju3ICAZtIMh8HUAa---figure---vziU3Rlwqb9_xWOy3myXgA.png "Figure 3")
+![Figure 3](/.eraser/SoAZWqIyNfuLnfJG69BC___v9mbn5vT6UcEXRnIU8fiBfvMxrF3___---figure---rhY9ZkDXlmaDmVTqJ4yb----figure---vziU3Rlwqb9_xWOy3myXgA.png "Figure 3")
 
 # Database Languages
-![Figure 4](/.eraser/SoAZWqIyNfuLnfJG69BC___v9mbn5vT6UcEXRnIU8fiBfvMxrF3___---figure---iXYggHkkd1vo_Ox6JsM_4---figure---FMkNCcuqFYeHLCABzV6kJg.png "Figure 4")
+![Figure 4](/.eraser/SoAZWqIyNfuLnfJG69BC___v9mbn5vT6UcEXRnIU8fiBfvMxrF3___---figure---ia34eBGRAzbodyF5gqpiT---figure---FMkNCcuqFYeHLCABzV6kJg.png "Figure 4")
 
 ## Data Definition Language (DDL)
 **DDL** is the short name for Data Definition Language, which deals with database schemas and descriptions, of how the data should reside in the database.
