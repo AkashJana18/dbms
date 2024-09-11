@@ -8,16 +8,16 @@ A Database Management System (DBMS) is a software system that is designed to man
 
 **DBMS can be classified into two types:**
 
-![Figure 1](/.eraser/SoAZWqIyNfuLnfJG69BC___v9mbn5vT6UcEXRnIU8fiBfvMxrF3___---figure---yi-GYJaiNlXZrSrL_7W6j---figure---ta711QFKI1XLSLh4ZMH9fg.png "Figure 1")
+![Figure 1](/.eraser/SoAZWqIyNfuLnfJG69BC___v9mbn5vT6UcEXRnIU8fiBfvMxrF3___---figure---QY6zp1Flz0Kiapgxzf3vA---figure---ta711QFKI1XLSLh4ZMH9fg.png "Figure 1")
 
 - **RDBMS: **Data is organized in the form of tables and each table has a set of rows and columns. The data are related to each other through primary and foreign keys.
 - **NoSQL: **Data is organized in the form of key-value pairs, documents, graphs, or column-based. These are designed to handle large-scale, high-performance scenarios.
 - **Object-Oriented DBMS (OODBMS):** Stores data as objects, similar to those used in object-oriented programming, allowing for complex data representations and relationships
 ### Key Features of DBMS:
-![Figure 3](/.eraser/SoAZWqIyNfuLnfJG69BC___v9mbn5vT6UcEXRnIU8fiBfvMxrF3___---figure---N3uJDqODd5FNLXIh45EUM---figure---vziU3Rlwqb9_xWOy3myXgA.png "Figure 3")
+![Figure 3](/.eraser/SoAZWqIyNfuLnfJG69BC___v9mbn5vT6UcEXRnIU8fiBfvMxrF3___---figure---dUReNbeVSc0FdtLPygZti---figure---vziU3Rlwqb9_xWOy3myXgA.png "Figure 3")
 
 # Database Languages
-![Figure 4](/.eraser/SoAZWqIyNfuLnfJG69BC___v9mbn5vT6UcEXRnIU8fiBfvMxrF3___---figure---G0vUnEWt6CHdWobi_0mff---figure---FMkNCcuqFYeHLCABzV6kJg.png "Figure 4")
+![Figure 4](/.eraser/SoAZWqIyNfuLnfJG69BC___v9mbn5vT6UcEXRnIU8fiBfvMxrF3___---figure---jpSFggUzPlaRvWNK2a1pY---figure---FMkNCcuqFYeHLCABzV6kJg.png "Figure 4")
 
 ## Data Definition Language (DDL)
 **DDL** is the short name for Data Definition Language, which deals with database schemas and descriptions, of how the data should reside in the database.
@@ -79,7 +79,7 @@ A Database Management System (DBMS) is a software system that is designed to man
 - **Easy Maintenance**: It is easily maintainable due to its centralized nature.
 DBMS is continuously evolving from time to time. It is a powerful tool for data storage and protection. In the coming years, we will get to witness an AI-based DBMS to retrieve databases of ancient eras. 
 
-![Figure 5](/.eraser/SoAZWqIyNfuLnfJG69BC___v9mbn5vT6UcEXRnIU8fiBfvMxrF3___---figure---YoImnS5MLWXgVmgrYKHAw---figure---sQOnrldEsBj_WwpRFQhQDQ.png "Figure 5")
+![Figure 5](/.eraser/SoAZWqIyNfuLnfJG69BC___v9mbn5vT6UcEXRnIU8fiBfvMxrF3___---figure---KlzWgQEqBvOKrBF2TBQBs---figure---sQOnrldEsBj_WwpRFQhQDQ.png "Figure 5")
 
 ## Disadvantages of DBMS
 - **Complexity:** DBMS can be complex to set up and maintain, requiring specialized knowledge and skills.
@@ -88,7 +88,7 @@ DBMS is continuously evolving from time to time. It is a powerful tool for data 
 - **Cost:** The cost of purchasing, maintaining and upgrading a DBMS can be high, especially for large or complex systems.
 - **Limited Use Cases:** Not all use cases are suitable for a DBMS, some solutions don’t need high reliability, consistency or security and may be better served by other types of data storage.
 ## Applications of DBMS
-![Figure 6](/.eraser/SoAZWqIyNfuLnfJG69BC___v9mbn5vT6UcEXRnIU8fiBfvMxrF3___---figure---sntfR4ZTMiW1P9yLjat_c---figure---NUaedD517LSrhEbfAs6v_A.png "Figure 6")
+![Figure 6](/.eraser/SoAZWqIyNfuLnfJG69BC___v9mbn5vT6UcEXRnIU8fiBfvMxrF3___---figure---Rgn9JmVPv9ebsXN91nxRE---figure---NUaedD517LSrhEbfAs6v_A.png "Figure 6")
 
 - **Enterprise Information: **Sales, accounting, human resources, Manufacturing, online retailers.
 - **Banking and Finance Sector: **Banks maintaining the customer details, accounts, loans, banking transactions, credit card transactions. Finance: Storing the information about sales and holdings, purchasing of financial stocks and bonds.
@@ -97,6 +97,67 @@ DBMS is continuously evolving from time to time. It is a powerful tool for data 
 - **Telecommunications: **Prepaid, postpaid bills maintenance.
 ## Conclusion
 A Database Management System (DBMS) is an essential tool for efficiently managing, organizing, and retrieving large volumes of data across various industries. Its ability to handle data securely, ensure integrity, support concurrent access, and provide backup and recovery options makes it indispensable for modern data-driven applications. While DBMSs come with complexities and costs, their benefits in terms of data management and security far outweigh the challenges, making them a crucial component in any data-centric environment
+
+# DBMS Architecture
+A Database stores a lot of critical information to access data quickly and securely. Hence it is important to select the correct architecture for efficient data management. DBMS Architecture helps users to get their requests done while connecting to the database. We choose database architecture depending on several factors like the size of the database, number of users, and relationships between the users. There are two types of database models that we generally use, logical model and physical model. Several types of architecture are there in the database which we will deal with in the next section.
+
+![Figure 7](/.eraser/SoAZWqIyNfuLnfJG69BC___v9mbn5vT6UcEXRnIU8fiBfvMxrF3___---figure---IZGtdbmSwIuYNZYmcFzD7---figure---XODgYJ-y3TBQLbGiYLR88A.png "Figure 7")
+
+## **1-Tier Architecture**
+In 1-Tier Architecture the database is directly available to the user, the user can directly sit on the DBMS and use it that is, the client, server, and Database are all present on the same machine. For Example: to learn SQL we set up an SQL server and the database on the local system. This enables us to directly interact with the relational database and execute operations. The industry won’t use this architecture they logically go for 2-tier and 3-tier Architecture.
+
+![Figure 8](/.eraser/SoAZWqIyNfuLnfJG69BC___v9mbn5vT6UcEXRnIU8fiBfvMxrF3___---figure---yxz38kAP1VcwggzTY4d6u---figure---2wJkc2axs2DjFe6bJ5Oncw.png "Figure 8")
+
+
+
+- **Simple Architecture:** 1-Tier Architecture is the most simple architecture to set up, as only a single machine is required to maintain it.
+- **Cost-Effective:** No additional hardware is required for implementing 1-Tier Architecture, which makes it cost-effective.
+- **Easy to Implement: **1-Tier Architecture can be easily deployed, and hence it is mostly used in small projects. 
+## **2-Tier Architecture**
+The 2-tier architecture is similar to a basic﻿ client-server model. The application at the client end directly communicates with the database on the server side. APIs like ODBC(Open Database Connectivity) and JDBC(Java Database Connectivity) are used for this interaction. The server side is responsible for providing query processing and transaction management functionalities. On the client side, the user interfaces and application programs are run. The application on the client side establishes a connection with the server side to communicate with the DBMS. 
+An advantage of this type is that maintenance and understanding are easier, and compatible with existing systems. However, this model gives poor performance when there are a large number of users. 
+
+![Figure 9](/.eraser/SoAZWqIyNfuLnfJG69BC___v9mbn5vT6UcEXRnIU8fiBfvMxrF3___---figure---a3CshIiYZeqanL4s_NIaN---figure---nZ9UWsId36yPzWr8F_jKtw.png "Figure 9")
+
+- **Easy to Access:** 2-Tier Architecture makes easy access to the database, which makes fast retrieval.
+- **Scalable:** We can scale the database easily, by adding clients or upgrading hardware.
+- **Low Cost:** 2-Tier Architecture is cheaper than 3-Tier Architecture and ﻿Multi-Tier Architecture .
+- **Easy Deployment:** 2-Tier Architecture is easier to deploy than 3-Tier Architecture.
+- **Simple:** 2-Tier Architecture is easily understandable as well as simple because of only two components.
+#  3-Tier Architecture
+The 3-tier architecture divides an application’s components into three tiers or layers. Each layer has its own set of responsibilities. It divides the complete system into three inter-related but independent modules as shown below:
+
+![Figure 10](/.eraser/SoAZWqIyNfuLnfJG69BC___v9mbn5vT6UcEXRnIU8fiBfvMxrF3___---figure---UuK-9Fep9ZJRjuhZ2x5tN---figure---l5WBoqObj8amuZzgQhskEg.png "Figure 10")
+
+- **Physical Level:** At the physical level, the information about the location of database objects in the data store is kept. Various users of DBMS are unaware of the locations of these objects. In simple terms, physical level of a database describes how the data is being stored in secondary storage devices like disks and tapes and also gives insights on additional storage details.
+- **Conceptual Level: **At conceptual level, data is represented in the form of various database tables. For Example, STUDENT database may contain STUDENT and COURSE tables which will be visible to users but users are unaware of their storage. Also referred as logical schema, it describes what kind of data is to be stored in the database.
+- **External Level: ** An external level specifies a view of the data in terms of conceptual level tables. Each external level view is used to cater to the needs of a particular category of users. For Example, FACULTY of a university is interested in looking course details of students, STUDENTS are interested in looking at all details related to academics, accounts, courses and hostel details as well. So, different views can be generated for different users. The main focus of external level is data abstraction.
+![Figure 11](/.eraser/SoAZWqIyNfuLnfJG69BC___v9mbn5vT6UcEXRnIU8fiBfvMxrF3___---figure---O_sZEN0ltce59ReGEBM-c---figure---gf5-dHg18hbf2mtnLJdXAQ.png "Figure 11")
+
+### **Phases of Database Design**
+Database designing for a real-world application starts from capturing the requirements to physical implementation using DBMS software which consists of following steps shown below:
+
+![Figure 12](/.eraser/SoAZWqIyNfuLnfJG69BC___v9mbn5vT6UcEXRnIU8fiBfvMxrF3___---figure---J1jAn4HDLOry-P1espu6M---figure---r1X0pB-gtKWsQgaM3UgSrw.png "Figure 12")
+
+- **Conceptual Design: **The requirements of database are captured using high level conceptual data model. For Example, the ﻿ER model  is used for the conceptual design of the database.
+- **Logical Design: **Logical Design represents data in the form of relational model. ER diagram produced in the conceptual design phase is used to convert the data into the Relational Model.
+- **Physical Design:** In physical design, data in relational model is implemented using commercial DBMS like Oracle, DB2.
+# 3 Tier Schema Architecture
+In DBMS, the 3-tier architecture is a client-server architecture that separates the user interface, application processing, and data management into three distinct tiers or layers. The 3-tier architecture is widely used in modern web applications and enterprise systems because it offers scalability, flexibility, and security. Here is a brief description of each tier in the 3-tier architecture:
+
+![Figure 13](/.eraser/SoAZWqIyNfuLnfJG69BC___v9mbn5vT6UcEXRnIU8fiBfvMxrF3___---figure---p1N7WwvC9hSNJclyeTmEk---figure---JOCTMZRHA8_6JPjEVm8IkA.png "Figure 13")
+
+- **Presentation Tier:** The presentation tier is the user interface or client layer of the application. It is responsible for presenting data to the user and receiving input from the user. This tier can be a web browser, mobile app, or desktop application.
+- **Application Tier: **The application tier is the middle layer of the 3-tier architecture. It is responsible for processing and managing the business logic of the application. This tier communicates with the presentation tier to receive user input and communicates with the data management tier to retrieve or store data. This tier may include application servers, web servers, or APIs.
+- **Data Management Tier:** The data management tier is the bottom layer of the 3-tier architecture. It is responsible for managing and storing data. This tier can include databases, data warehouses, or data lakes. The data management tier communicates with the application tier to receive or store data.
+#### Advantages : 
+- **Scalability: **The architecture separates the application processing and data management layers, which allows for easy scalability of each layer independently.
+- **Flexibility:** The architecture allows for the replacement or upgrade of one layer without affecting the other layers.
+- **Security: **The architecture provides an additional layer of security, as the data management tier can be isolated from the application and presentation tiers, reducing the risk of unauthorized access.
+#### **Disadvantages**
+- **More Complex: **3-Tier Architecture is more complex in comparison to 2-Tier Architecture. Communication Points are also doubled in 3-Tier Architecture.
+- **Difficult to Interact:** It becomes difficult for this sort of interaction to take place due to the presence of middle layers.
+When it comes to choosing a DBMS architecture, it all comes down to how complex and scalable the system is. The 3-level structure has the best features and is perfect for modern, big﻿ database systems.
 
 
 
