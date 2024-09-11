@@ -8,16 +8,16 @@ A Database Management System (DBMS) is a software system that is designed to man
 
 **DBMS can be classified into two types:**
 
-![Figure 1](/.eraser/SoAZWqIyNfuLnfJG69BC___v9mbn5vT6UcEXRnIU8fiBfvMxrF3___---figure---IWOnrc8jwRmfeWdh59RHN---figure---ta711QFKI1XLSLh4ZMH9fg.png "Figure 1")
+![Figure 1](/.eraser/SoAZWqIyNfuLnfJG69BC___v9mbn5vT6UcEXRnIU8fiBfvMxrF3___---figure---yi-GYJaiNlXZrSrL_7W6j---figure---ta711QFKI1XLSLh4ZMH9fg.png "Figure 1")
 
 - **RDBMS: **Data is organized in the form of tables and each table has a set of rows and columns. The data are related to each other through primary and foreign keys.
 - **NoSQL: **Data is organized in the form of key-value pairs, documents, graphs, or column-based. These are designed to handle large-scale, high-performance scenarios.
 - **Object-Oriented DBMS (OODBMS):** Stores data as objects, similar to those used in object-oriented programming, allowing for complex data representations and relationships
 ### Key Features of DBMS:
-![Figure 3](/.eraser/SoAZWqIyNfuLnfJG69BC___v9mbn5vT6UcEXRnIU8fiBfvMxrF3___---figure---rhY9ZkDXlmaDmVTqJ4yb----figure---vziU3Rlwqb9_xWOy3myXgA.png "Figure 3")
+![Figure 3](/.eraser/SoAZWqIyNfuLnfJG69BC___v9mbn5vT6UcEXRnIU8fiBfvMxrF3___---figure---N3uJDqODd5FNLXIh45EUM---figure---vziU3Rlwqb9_xWOy3myXgA.png "Figure 3")
 
 # Database Languages
-![Figure 4](/.eraser/SoAZWqIyNfuLnfJG69BC___v9mbn5vT6UcEXRnIU8fiBfvMxrF3___---figure---ia34eBGRAzbodyF5gqpiT---figure---FMkNCcuqFYeHLCABzV6kJg.png "Figure 4")
+![Figure 4](/.eraser/SoAZWqIyNfuLnfJG69BC___v9mbn5vT6UcEXRnIU8fiBfvMxrF3___---figure---G0vUnEWt6CHdWobi_0mff---figure---FMkNCcuqFYeHLCABzV6kJg.png "Figure 4")
 
 ## Data Definition Language (DDL)
 **DDL** is the short name for Data Definition Language, which deals with database schemas and descriptions, of how the data should reside in the database.
@@ -79,6 +79,8 @@ A Database Management System (DBMS) is a software system that is designed to man
 - **Easy Maintenance**: It is easily maintainable due to its centralized nature.
 DBMS is continuously evolving from time to time. It is a powerful tool for data storage and protection. In the coming years, we will get to witness an AI-based DBMS to retrieve databases of ancient eras. 
 
+![Figure 5](/.eraser/SoAZWqIyNfuLnfJG69BC___v9mbn5vT6UcEXRnIU8fiBfvMxrF3___---figure---YoImnS5MLWXgVmgrYKHAw---figure---sQOnrldEsBj_WwpRFQhQDQ.png "Figure 5")
+
 ## Disadvantages of DBMS
 - **Complexity:** DBMS can be complex to set up and maintain, requiring specialized knowledge and skills.
 - **Performance overhead: **The use of a DBMS can add overhead to the performance of an application, especially in cases where high levels of concurrency are required.
@@ -86,6 +88,8 @@ DBMS is continuously evolving from time to time. It is a powerful tool for data 
 - **Cost:** The cost of purchasing, maintaining and upgrading a DBMS can be high, especially for large or complex systems.
 - **Limited Use Cases:** Not all use cases are suitable for a DBMS, some solutions don’t need high reliability, consistency or security and may be better served by other types of data storage.
 ## Applications of DBMS
+![Figure 6](/.eraser/SoAZWqIyNfuLnfJG69BC___v9mbn5vT6UcEXRnIU8fiBfvMxrF3___---figure---sntfR4ZTMiW1P9yLjat_c---figure---NUaedD517LSrhEbfAs6v_A.png "Figure 6")
+
 - **Enterprise Information: **Sales, accounting, human resources, Manufacturing, online retailers.
 - **Banking and Finance Sector: **Banks maintaining the customer details, accounts, loans, banking transactions, credit card transactions. Finance: Storing the information about sales and holdings, purchasing of financial stocks and bonds.
 - **University: **Maintaining the information about student course enrolled information, student grades, staff roles.
